@@ -1,4 +1,4 @@
-baseURL = "http://fiearndal.dk/kea/public/"
+baseURL = ""
 languageCode = "en-us"
 title = "Min Hugoside"
 theme = "cocoa"
