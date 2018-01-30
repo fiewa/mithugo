@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hej Verden on Min Hugoside</title>
+    <link>http://fiearndal.dk/kea/public/</link>
+    <description>Recent content in Hej Verden on Min Hugoside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Mon, 29 Jan 2018 12:42:39 +0100</lastBuildDate>
+    
+	<atom:link href="http://fiearndal.dk/kea/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artikel 2</title>
+      <link>http://fiearndal.dk/kea/public/blog/artikel-2/</link>
+      <pubDate>Mon, 29 Jan 2018 12:54:56 +0100</pubDate>
+      
+      <guid>http://fiearndal.dk/kea/public/blog/artikel-2/</guid>
+      <description>Artikel 2 Dette bliver til artikel 2. Lige nu er den tom</description>
+    </item>
+    
+    <item>
+      <title>Artikel 1</title>
+      <link>http://fiearndal.dk/kea/public/blog/artikel-1/</link>
+      <pubDate>Mon, 29 Jan 2018 12:54:03 +0100</pubDate>
+      
+      <guid>http://fiearndal.dk/kea/public/blog/artikel-1/</guid>
+      <description>Artikel 1 Dette bliver til artikel 1. Lige nu er den tom</description>
+    </item>
+    
+  </channel>
+</rss>

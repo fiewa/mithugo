@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kontakt on Min Hugoside</title>
+    <link>http://fiearndal.dk/kea/public/kontakt/</link>
+    <description>Recent content in Kontakt on Min Hugoside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Mon, 29 Jan 2018 12:53:22 +0100</lastBuildDate>
+    
+	<atom:link href="http://fiearndal.dk/kea/public/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "da-dk"
+baseURL = "http://fiearndal.dk/kea/public/"
+languageCode = "en-us"
 title = "Min Hugoside"
 theme = "cocoa"
 
