@@ -26,4 +26,4 @@ En liste over nemme ting
 2. At bruge en terminal
 3. Hugo
 
-![alt billede af sød kat] (../cat.jpeg)
+![ billede af sød kat] (../cat.jpeg)

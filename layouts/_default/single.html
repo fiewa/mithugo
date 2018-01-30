@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <p>lol hej</p>
+    <div class="container">
+        <div class="content"> {{ partial "page-heading.html" . }}
+            <div class="caseimage"> <img src="{{ .Params.caseimage }}"> </div>
+            <div class="markdown"> {{ .Content }} </div>
+        </div>
+    </div>
+</section> {{ partial "footer.html" . }}
