@@ -1,4 +1,4 @@
-baseURL = "fiewa.github.io/mithugo"
+baseURL = "http://fiewa.github.io/mithugo"
 languageCode = "en-us"
 title = "Min Hugoside"
 theme = "cocoa"
