@@ -2,6 +2,7 @@ baseURL = "http://fiearndal.dk/kea/public/"
 languageCode = "en-us"
 title = "Min Hugoside"
 theme = "cocoa"
+publishDir = "docs"
 
 [[menu.main]]
 name               	= "Forside"
